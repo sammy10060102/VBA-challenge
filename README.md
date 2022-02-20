@@ -1,5 +1,7 @@
-# VBA-challenge
-The results contain the following:
+# VBA scripting to analyze stock market data.
+
+## The script will loop through all the stocks for one year and output the following information:
+
 
 The ticker symbol.
 
